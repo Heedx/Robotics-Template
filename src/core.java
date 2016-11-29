@@ -37,3 +37,9 @@ public class core extends IterativeRobot{
     stick =  new Joystick(1);
   }
 }
+
+// May the force be with you
+// LiveWindow is a part of the SmartDashboard that allows you to see inputs and control outputs on the robot from the dashboard when the robot is in Test Mode
+public void testPeriodic() {
+  LiveWindow.run();
+}
