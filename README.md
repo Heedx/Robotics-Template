@@ -1,4 +1,3 @@
-# Zoobotixs Template
+#Robot Template
 
-  Made for FRC Zoobotixs
-
+My simple robot template
