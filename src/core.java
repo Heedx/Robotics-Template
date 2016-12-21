@@ -1,15 +1,3 @@
-/*
-* 
-* File Name - core.java
-* Description -
-*   core.java initializes all commands and gives each one a purpose and function.
-*   this also runs the code. so what ever we want it to do we would initialize it here.
-* 
-* Author - Josh Brown
-* Date - Nov 29
-* Time 4:32
-*/
-
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.RobotDrive;
